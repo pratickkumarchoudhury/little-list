@@ -1,6 +1,6 @@
 # Little List
 
-A tiny to-do page built with plain HTML, CSS, and JavaScript. Open `index.html` in a browser to try it; no installation is needed. Tasks reset when you refresh the page.
+A insignificant to-do page built with plain HTML, CSS, and JavaScript. Open `index.html` in a browser to try it; no installation is needed. Tasks reset when you refresh the page.
 
 ## Git practice ideas
 
