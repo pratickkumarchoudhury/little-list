@@ -7,9 +7,7 @@ function updateEmptyMessage() {
   emptyMessage.hidden = list.children.length > 0;
 }
 
-function createdarkmode() {
-  
-}
+// Add a feature to toggle into dark mode.
 
 form.addEventListener('submit', (event) => {
   event.preventDefault();
