@@ -8,6 +8,7 @@ function updateEmptyMessage() {
 }
 
 // Add a feature to toggle into dark mode.
+// Add a git fetch and merge tools.
 
 form.addEventListener('submit', (event) => {
   event.preventDefault();
