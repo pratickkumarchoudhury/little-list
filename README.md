@@ -1,6 +1,8 @@
 # Little List
 
-A insignificant but not useless in some way to-do page built with plain HTML, CSS, and JavaScript. Open `index.html` in a browser to try it; no installation is needed. Tasks reset when you refresh the page.
+
+A tiny and little and excited to-do page built with plain HTML, CSS, and JavaScript. Open `index.html` in a browser to try it; no installation is needed. Tasks reset when you refresh the page.
+
 
 ## Git practice ideas
 
@@ -8,3 +10,8 @@ A insignificant but not useless in some way to-do page built with plain HTML, CS
 2. Change the heading or colors, then inspect and commit the changes.
 3. Create a branch and add a second starter task.
 4. Try adding task persistence with `localStorage` on another branch.
+
+
+Footer: Built with HTML, CSS, and Git
+
+Information is added.
