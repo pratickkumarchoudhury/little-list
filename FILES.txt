@@ -1,0 +1,7 @@
+Little List — file guide
+
+index.html  - The web page structure: heading, task form, and task list.
+styles.css  - Colors, spacing, layout, and button styles.
+script.js   - Adds tasks and removes them when you click Done.
+README.md   - Project overview and Git practice ideas.
+FILES.txt   - This guide to all files in the project.

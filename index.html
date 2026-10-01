@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Little List</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <main class="card">
+      <p class="eyebrow">A tiny project</p>
+      <h1>Little List</h1>
+      <p class="intro">Keep track of a few things you want to do today.</p>
+
+      <form id="task-form">
+        <label for="task-input">New task</label>
+        <div class="input-row">
+          <input id="task-input" type="text" placeholder="e.g. Practice Git" maxlength="80" required />
+          <button type="submit">Add</button>
+        </div>
+      </form>
+
+      <h2>Today's tasks</h2>
+      <ul id="task-list" aria-label="Today's tasks">
+        <li><span>Make my first commit</span><button type="button" class="done-button" aria-label="Complete Make my first commit">Done</button></li>
+      </ul>
+      <p id="empty-message" hidden>All done! Add a new task above.</p>
+    </main>
+  </body>
+</html>
