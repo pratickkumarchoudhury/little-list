@@ -7,6 +7,10 @@ function updateEmptyMessage() {
   emptyMessage.hidden = list.children.length > 0;
 }
 
+function createdarkmode() {
+  
+}
+
 form.addEventListener('submit', (event) => {
   event.preventDefault();
   const task = input.value.trim();
